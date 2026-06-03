@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/harshmzp2702" target="blank"><img src="https://img.shields.io/twitter/follow/harshmzp2702?logo=twitter&style=for-the-badge" alt="harshmzp2702" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://harsh27022002.github.io/My-Portfolio/](https://harsh27022002.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at ([https://harsh27022002.github.io/My-Portfolio/](https://harshportfolio-seven.vercel.app/))
 
-- 💬 Ask me about **Core Java,Adv. Java,HTML,CSS**
+- 💬 Ask me about **Angular, Flutter**
 
 - 📫 How to reach me **https://twitter.com/harshmzp2702**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1No5bp9Q0jCen93ffaLsH3KY_QV3X3jWs/](https://drive.google.com/file/d/1No5bp9Q0jCen93ffaLsH3KY_QV3X3jWs/)
+- 📄 Know about my experiences [(https://drive.google.com/file/d/1No5bp9Q0jCen93ffaLsH3KY_QV3X3jWs/](https://drive.google.com/file/d/1g6dxiNGrgIHc1S2xSMvljSkpebGf-Doi/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
