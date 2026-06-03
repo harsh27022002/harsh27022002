@@ -1,4 +1,4 @@
-![logo]([https://github.com/harsh27022002/harsh270220002/](https://github.com/harsh27022002/harsh27022002/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png)
+![logo](https://github.com/harsh27022002/harsh27022002/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi, I'm Harsh Modanwal</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
